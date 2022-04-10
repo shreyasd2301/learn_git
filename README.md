@@ -1,3 +1,3 @@
 # Git Tutorial
 
-This is a good tutorial on Git.
+This is a fantastic tutorial on Git.
